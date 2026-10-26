@@ -17,8 +17,10 @@ Checked during assembly on 26 October 2026. Product behavior, prices, model file
 - [Promised ProjectDiscovery article](https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned)
 - [Hugging Face model security](https://huggingface.co/docs/hub/security)
 - [Local recorded model](https://huggingface.co/huihui-ai/Huihui-Qwen3.6-35B-A3B-abliterated-MTP-GGUF)
-- [Cloud recorded collection](https://huggingface.co/prithivMLmods/Qwen3.5-abliterated-MAX-AIO-GGUF)
+- [Additional vision-model collection](https://huggingface.co/prithivMLmods/Qwen3.5-abliterated-MAX-AIO-GGUF)
 - [Abliteration](https://abliteration.ai)
 - [OrcaRouter](https://orcarouter.com)
 - [Lockpick](https://www.lockpick.app)
 - [Early AI-dopters](https://www.skool.com/earlyaidopters/about)
+
+- [Recorded cloud model](https://huggingface.co/mradermacher/Huihui-Qwen3.5-9B-abliterated-GGUF)
